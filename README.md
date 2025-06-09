@@ -12,6 +12,10 @@ CyberTool is a lightweight Python-based tool to track IP addresses using ipinfo.
 ## 📦 Installation
 
 ```bash
+pkg update && pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install wget -y
 git clone https://github.com/cybercratic/CyberTool
 cd CyberTool
 pip install -r requirements.txt
