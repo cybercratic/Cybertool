@@ -19,5 +19,5 @@ pkg install wget -y
 git clone  https://github.com/cybercratic/Cybertool.git
 cd Cybertool
 chmod +x *
-pip install -r requirements.txt
+pip install -r  requirments.txt
 python cybertool.py <ip>
