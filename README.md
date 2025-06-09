@@ -16,7 +16,8 @@ pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
 pkg install wget -y
-git clone https://github.com/cybercratic/CyberTool
-cd CyberTool
+git clone  https://github.com/cybercratic/Cybertool.git
+cd Cybertool
+chmod +x *
 pip install -r requirements.txt
 python cybertool.py <ip>
