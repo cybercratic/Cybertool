@@ -21,3 +21,8 @@ cd Cybertool
 chmod +x *
 pip install -r  requirments.txt
 python cybertool.py <ip>
+
+## 📤 follow me
+https://t.me/cybercratic
+https://www.instagram.com/hcr_manoj?igsh=MTlrcTZ6ZXdhdHk1YQ==
+https://youtube.com/@cybercratic?si=VlzjEaNUp6fTjH-T
